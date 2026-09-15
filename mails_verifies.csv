@@ -599,3 +599,103 @@ l.brousse@tarbouriech.fr,tarbouriech.fr,ASPMX.L.GOOGLE.COM,Non,Inexistant (SMTP 
 l.burban@domaine-cice-blossac.com,domaine-cice-blossac.com,,,Impossible (résolution MX échouée),Impossible (MX)
 l.carteron@domainelacharpiniere.com,domainelacharpiniere.com,,,Impossible (résolution MX échouée),Impossible (MX)
 l.chassagne@mascandille.com,mascandille.com,aspmx.l.google.com,Non,Inexistant (SMTP 550),Inexistant
+l.chenoufi@equalia.fr,equalia.fr,equalia-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+l.cinquini@golf-digne.com,golf-digne.com,golfdigne-com01b.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+l.clua@equalia.fr,equalia.fr,equalia-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+l.coeslier@potiniere.com,potiniere.com,,,Impossible (résolution MX échouée),Impossible (MX)
+l.comayras@lesterrassesdeeze.com,lesterrassesdeeze.com,,,Impossible (résolution MX échouée),Impossible (MX)
+l.crosnier@manoir-poterie.fr,manoir-poterie.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+l.cuce@vatel.fr,vatel.fr,vatel-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+l.daniellaborde@umih.fr,umih.fr,umih-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+l.debret@airelles.com,airelles.com,airelles-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+l.deltour@brithotel.fr,brithotel.fr,mx1.cyberbrain.net,Non,Incertain (Code 450 : 4.7.1 <l.deltour@brithotel.fr>: Recipient address rejected: Service is unavailable (try later)),Incertain
+l.derobert@okkohotels.com,okkohotels.com,okkohotels-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+l.drevetmulard@lesranchisses.fr,lesranchisses.fr,aspmx.l.google.com,Non,Inexistant (SMTP 550),Inexistant
+l.drouot@boscolocollection.com,boscolocollection.com,boscolocollection-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+l.dubouchetponcey@arahotel.com,arahotel.com,,,Impossible (résolution MX échouée),Impossible (MX)
+l.duclos@vert-marine.com,vert-marine.com,vertmarine-com01b.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+l.duong@mizu-robinetterie.fr,mizu-robinetterie.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+l.eloy@dominedejoinville.com,dominedejoinville.com,,,Impossible (résolution MX échouée),Impossible (MX)
+l.eric@khotelgroup.com,khotelgroup.com,mx.myregisteredsite.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+l.fitoussi@hotel-lespleiades.com,hotel-lespleiades.com,,,Impossible (résolution MX échouée),Impossible (MX)
+l.gaillard@hotel-marinca.com,hotel-marinca.com,mx4.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [20.221.69.18])",Incertain
+l.garlan@relaisthalasso.com,relaisthalasso.com,relaisthalasso-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+l.garziera@capfun.com,capfun.com,capfun-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+l.gaucher@metropole.mc,metropole.mc,,,Impossible (résolution MX échouée),Impossible (MX)
+l.gaudin@equalia.fr,equalia.fr,equalia-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+l.george@louvre-hotels.com,louvre-hotels.com,louvrehotels-com01e.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+l.gilet@domainedebarive.com,domainedebarive.com,mx1.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [20.221.69.18])",Incertain
+l.gonzalez@hotel-christiania.com,hotel-christiania.com,mx-mibc-fr-05.mailinblack.com,Non,Inexistant (SMTP 550),Inexistant
+l.gregoire@lespresdeugenie.com,lespresdeugenie.com,spool.mail.gandi.net,Non,"Incertain (Code 554 : 5.7.1 Service unavailable; Client host [20.221.69.18] blocked using sbl-xbl.spamhaus.org; Listed by CSS, see https://check.spamhaus.org/query/ip/20.221.69.18)",Incertain
+l.greven@ecrinblanc.com,ecrinblanc.com,mail1063.onamae.ne.jp,Non,Inexistant (SMTP 550),Inexistant
+l.grimaldi@hotel-provencal.com,hotel-provencal.com,mail.styleo.fr,Non,Inexistant (SMTP 550),Inexistant
+l.guerra@airelles.com,airelles.com,airelles-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+l.guillope@louvre-hotels.com,louvre-hotels.com,louvrehotels-com01e.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+l.hardy@coquillade.fr,coquillade.fr,coquillade-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+l.helies@hotels-saintebarbe.com,hotels-saintebarbe.com,,,Impossible (résolution MX échouée),Impossible (MX)
+l.hernandez@chateaucapitoul.com,chateaucapitoul.com,chateaucapitoul-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+l.higgs@oetkercollection.com,oetkercollection.com,oetkercollection-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+l.jibrayel@jfg-clinic.com,jfg-clinic.com,aspmx.l.google.com,Non,Inexistant (SMTP 550),Inexistant
+l.jollant@arbiview.com,arbiview.com,mx1.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [20.221.69.18])",Incertain
+l.jospe@airelles.com,airelles.com,airelles-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+l.jung@domaine-foretdorient.com,domaine-foretdorient.com,,,Impossible (résolution MX échouée),Impossible (MX)
+l.labarthe@larive.fr,larive.fr,larive-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+l.lagarde@theoriginals-hotels.com,theoriginals-hotels.com,,,Impossible (résolution MX échouée),Impossible (MX)
+l.lardon@chaletmounier.com,chaletmounier.com,,,Impossible (résolution MX échouée),Impossible (MX)
+l.larminach@lm-spamanagement.com,lm-spamanagement.com,,,Impossible (résolution MX échouée),Impossible (MX)
+l.lasseur@hotel-liondor.fr,hotel-liondor.fr,smtp.google.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+l.laurent@hotelpleinsud.com,hotelpleinsud.com,hotelpleinsud-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+l.lebervet@domainedebarive.com,domainedebarive.com,mx1.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [20.221.69.18])",Incertain
+l.lebihain@equalia.fr,equalia.fr,equalia-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+l.leboeuf@le16150.com,le16150.com,,,Impossible (résolution MX échouée),Impossible (MX)
+l.lecoq@hotel-lesbruyeres.fr,hotel-lesbruyeres.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+l.lecorfec@chateau-boisniard.com,chateau-boisniard.com,aspmx.l.google.com,Non,Inexistant (SMTP 550),Inexistant
+l.lellouche@allianceolivier386.org,allianceolivier386.org,,,Impossible (résolution MX échouée),Impossible (MX)
+l.lenet@chateau-de-salettes.com,chateau-de-salettes.com,,,Impossible (résolution MX échouée),Impossible (MX)
+l.lestrat@zenitude-groupe.com,zenitude-groupe.com,protect.oci.fr,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+l.letellier@ecoleterrade.com,ecoleterrade.com,ecoleterrade-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+l.levrangi@louvre-hotels.com,louvre-hotels.com,louvrehotels-com01e.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+l.linares@chateau-de-chapeau-cornu.fr,chateau-de-chapeau-cornu.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+l.livecchi@oceaniahotels.com,oceaniahotels.com,oceaniahotels-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+l.lutse@umih.fr,umih.fr,umih-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+l.machery@louvre-hotels.com,louvre-hotels.com,louvrehotels-com01e.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+l.malbert@code-piscines.com,code-piscines.com,,,Impossible (résolution MX échouée),Impossible (MX)
+l.mallet@louvre-hotels.com,louvre-hotels.com,louvrehotels-com01e.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+l.malot@rochebois.com,rochebois.com,aspmx.l.google.com,Non,Inexistant (SMTP 550),Inexistant
+l.marcel@leslodgessaintevictoire.com,leslodgessaintevictoire.com,mx1.api-and-you.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+l.marmod@umih.fr,umih.fr,umih-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+l.mauffre@lesglycines.fr,lesglycines.fr,lesglycines-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+l.menard@hotelsofisol.com,hotelsofisol.com,,,Impossible (résolution MX échouée),Impossible (MX)
+l.michaud@kservices.fr,kservices.fr,aspmx.l.google.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+l.micheneau@surmerhotel.com,surmerhotel.com,,,Impossible (résolution MX échouée),Impossible (MX)
+l.milbeo@labutte.fr,labutte.fr,mx3.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [20.221.69.18])",Incertain
+l.mitardfede@vatel.fr,vatel.fr,vatel-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+l.montillard@chateaucapitoul.com,chateaucapitoul.com,chateaucapitoul-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+l.morais@algotherm.fr,algotherm.fr,mx02.cloud.vadesecure.com,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+l.mouchet@residence-europe.com,residence-europe.com,,,Impossible (résolution MX échouée),Impossible (MX)
+l.musset@espaceetvie.fr,espaceetvie.fr,espaceetvie-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+l.nammathao@e-hotels.com,e-hotels.com,localhost,Non,Connexion refusée (port 25 fermé côté serveur cible ou bloqué par votre réseau),Erreur (voir Resultat_SMTP)
+l.nicoletti@appartcity.com,appartcity.com,appartcity-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+l.nirdol@mmv.fr,mmv.fr,mmv-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+l.nouguier@vatel.fr,vatel.fr,vatel-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+l.olivier@zenitude-groupe.com,zenitude-groupe.com,protect.oci.fr,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+l.orsolini@vert-marine.com,vert-marine.com,vertmarine-com01b.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+l.orticoni@hotel-charmettes.fr,hotel-charmettes.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+l.parrot@potiniere.com,potiniere.com,,,Impossible (résolution MX échouée),Impossible (MX)
+l.pascaud@haaitza.com,haaitza.com,aspmx.l.google.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+l.perard@appartcity.com,appartcity.com,appartcity-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+l.perrier@lavorelhotels.com,lavorelhotels.com,lavorelhotels-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+l.pillet@sowell.fr,sowell.fr,sowell-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+l.puissieux@infa-formation.com,infa-formation.com,aspmx.l.google.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+l.raynaud@atypio.fr,atypio.fr,atypio-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+l.recalde@espaceetvie.fr,espaceetvie.fr,espaceetvie-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+l.riffault@assashotels.com,assashotels.com,assashotels-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+l.riviere@colisee-hotel.fr,colisee-hotel.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+l.ruphy@assashotels.com,assashotels.com,assashotels-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+l.saez@atypio.fr,atypio.fr,atypio-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+l.saintetienne@lysmartagon.com,lysmartagon.com,,,Impossible (résolution MX échouée),Impossible (MX)
+l.sala@louvre-hotels.com,louvre-hotels.com,louvrehotels-com01e.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+l.sarrou@balaruc-les-bains.com,balaruc-les-bains.com,antispam3.xefi.fr,Non,Inexistant (SMTP 550),Inexistant
+l.sauvage@disini.com,disini.com,,,Impossible (résolution MX échouée),Impossible (MX)
+l.savoie@lemirage.fr,lemirage.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+l.scarpari@arenadour.com,arenadour.com,vade-mx-fr02.hornetsecurity.com,Non,Incertain (Code 554 : 5.5.4 Your IP address 20.221.69.18 has a bad reputation. To unblock visit https://cloud-security.net/unblock?blocked_ip=20.221.69.18&reason=6&qid=NOQUEUE),Incertain
