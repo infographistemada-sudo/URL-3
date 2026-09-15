@@ -799,3 +799,103 @@ laura.penman@experimentalgroup.com,experimentalgroup.com,mail2.namebrightmail.co
 laura.sc@otheraspa.fr,otheraspa.fr,,,Impossible (résolution MX échouée),Impossible (MX)
 laura.tarrieu@thermesdecauterets.com,thermesdecauterets.com,ex4.mail.ovh.net,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
 laura.tracol@escapade-bienetre.fr,escapade-bienetre.fr,mx1.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [172.184.247.0])",Incertain
+laura.u@chevalblanc.com,chevalblanc.com,mxb-0024c501.gslb.pphosted.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+laura.verban@guerlain.fr,guerlain.fr,mxb-0024c501.gslb.pphosted.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+laura.vial@peyrefitte.com,peyrefitte.com,antispam3.xefi.fr,Non,Inexistant (SMTP 550),Inexistant
+laura.viel@thalassoluc.org,thalassoluc.org,,,Impossible (résolution MX échouée),Impossible (MX)
+laura@aquavithal.fr,aquavithal.fr,mx0.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [20.168.103.50])",Incertain
+laura@autourduyoga.fr,autourduyoga.fr,mx00.ionos.fr,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+laura@dangelo-bienetre.fr,dangelo-bienetre.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+laura@fargeat-spamanager.fr,fargeat-spamanager.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+laura@institutedailleurs.fr,institutedailleurs.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+laura@klein-beautician.fr,klein-beautician.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+laura@lesclessecretes.fr,lesclessecretes.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+laura@nolane-cheffederang.fr,nolane-cheffederang.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+laura@noto-spapraticienne.fr,noto-spapraticienne.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+laura@rlbeautyspa.fr,rlbeautyspa.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+laura@simon-spamanager.fr,simon-spamanager.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+laura@spaquana.fr,spaquana.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+lauraine.alexis@lvrivieraspa.com,lvrivieraspa.com,aspmx.l.google.com,Non,Inexistant (SMTP 550),Inexistant
+laurane.pattier@beaumier.com,beaumier.com,beaumier-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+laurane@bellezzastudio.fr,bellezzastudio.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+laure.ardiet@uxco.com,uxco.com,uxco-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+laure.auger@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Incertain (Code 554 : 5.7.1 <laure.auger@accor.com>: Recipient address rejected: Invalid-Recipient.),Incertain
+laure.augros@villedecluny.fr,villedecluny.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+laure.b@borrelly-spa.com,borrelly-spa.com,,,Impossible (résolution MX échouée),Impossible (MX)
+laure.bouyssonnade@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+laure.dagada@sibuet.com,sibuet.com,mxst1.wopr-hosting.com,Non,Erreur réseau : [Errno -2] Name or service not known,Erreur (voir Resultat_SMTP)
+laure.descout@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+laure.grenet@lesbainsdedieppe.fr,lesbainsdedieppe.fr,smtp-protect.alinto.net,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+laure.grienenberger@campanile.fr,campanile.fr,campanile-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+laure.guillemin@dorchestercollection.com,dorchestercollection.com,eu-smtp-inbound-1.mimecast.com,Non,Inexistant (SMTP 550),Inexistant
+laure.jacob@lareserve-paris.com,lareserve-paris.com,mxa-008f2201.gslb.pphosted.com,Non,Inexistant (SMTP 550),Inexistant
+laure.lemoine@labordeensologne.com,labordeensologne.com,,,Impossible (résolution MX échouée),Impossible (MX)
+laure.paolini@sofitel.com,sofitel.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+laure.pertusier@saintjamesparis.com,saintjamesparis.com,mx1.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [20.168.103.50])",Incertain
+laure.quinton@manoir-du-lys.fr,manoir-du-lys.fr,mx1.api-and-you.com,Non,Incertain (Code 554 : 5.7.1 <laure.quinton@manoir-du-lys.fr>: Relay access denied),Incertain
+laure@champion-spapraticien.fr,champion-spapraticien.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+laure@charmillesdescordeliers.fr,charmillesdescordeliers.fr,mx00.ionos.fr,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+laure@edc-spamanagement.com,edc-spamanagement.com,,,Impossible (résolution MX échouée),Impossible (MX)
+laure@larbredevie-bienetre.fr,larbredevie-bienetre.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+laure@loupy-spamanager.fr,loupy-spamanager.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+laureen@secretsdefemme.fr,secretsdefemme.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+laureette.lapeine@massane.com,massane.com,massane-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+lauren.estival@hotelduchateau.fr,hotelduchateau.fr,mx1.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [20.168.103.50])",Incertain
+laurence.auffray@hotelmarinca.com,hotelmarinca.com,,,Impossible (résolution MX échouée),Impossible (MX)
+laurence.baudry@marriott.com,marriott.com,marriott-com.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+laurence.bloch@dorchestercollection.com,dorchestercollection.com,eu-smtp-inbound-1.mimecast.com,Non,Inexistant (SMTP 550),Inexistant
+laurence.boyer@spamarin-valandre.com,spamarin-valandre.com,,,Impossible (résolution MX échouée),Impossible (MX)
+laurence.dujardin@jardinzen-quistillic.fr,jardinzen-quistillic.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+laurence.hourdry@lahauteforet.com,lahauteforet.com,,,Impossible (résolution MX échouée),Impossible (MX)
+laurence.mouchet@residence-europe.com,residence-europe.com,,,Impossible (résolution MX échouée),Impossible (MX)
+laurence.pariset@ecole-terrade.com,ecole-terrade.com,mx4.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [20.168.103.50])",Incertain
+laurence.perrin@care-for-you.fr,care-for-you.fr,careforyou-fr01bb.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+laurence.thion@mamzen.fr,mamzen.fr,mail.mamzen.fr,Non,Valide (SMTP 250),Valide
+laurence.watiez@laparenthese-armagnac.fr,laparenthese-armagnac.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+laurence@amincissement-bienetre.fr,amincissement-bienetre.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+laurence@ariabienetre.fr,ariabienetre.fr,mail.ariabienetre.fr,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+laurence@cocooning-institut.fr,cocooning-institut.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+laurence@dade-esthetique.fr,dade-esthetique.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+laurence@peauetiquemassages.fr,peauetiquemassages.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+laurene.antoinat@mgm-groupe.com,mgm-groupe.com,mgmgroupe-com0i.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+laurene.avon@spaodesoleil.fr,spaodesoleil.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+laurene.beauhaire@grand-monarque.com,grand-monarque.com,mx1.api-and-you.com,Non,Incertain (Code 554 : 5.7.1 <laurene.beauhaire@grand-monarque.com>: Relay access denied),Incertain
+laurene.hryniow@lespa.fr,lespa.fr,mx3.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [20.168.103.50])",Incertain
+laurent.allard@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+laurent.begey@irrijardin.fr,irrijardin.fr,irrijardin-fr.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+laurent.blanchard@sparkclub.fr,sparkclub.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+laurent.bouchut@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+laurent.cheyrouze@adagio-apartements.com,adagio-apartements.com,,,Impossible (résolution MX échouée),Impossible (MX)
+laurent.clamaron@wellness-sportclub.fr,wellness-sportclub.fr,filter11125.zerospam.ca,Non,Valide (SMTP 250),Valide
+laurent.claron@leyule.com,leyule.com,,,Impossible (résolution MX échouée),Impossible (MX)
+laurent.cochelin@roussillhotel.com,roussillhotel.com,d64824b.ess.barracudanetworks.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+laurent.cuntzmann@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+laurent.demets@allsuites.fr,allsuites.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+laurent.desboudard@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Incertain (Code 554 : 5.7.1 <laurent.desboudard@accor.com>: Recipient address rejected: Invalid-Recipient.),Incertain
+laurent.descouts@mascandille.com,mascandille.com,aspmx.l.google.com,Non,Inexistant (SMTP 550),Inexistant
+laurent.dewit@vacanceole.com,vacanceole.com,vacanceole-com.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+laurent.double@lenegresco.com,lenegresco.com,lenegresco-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+laurent.drouard@loupinet.com,loupinet.com,loupinet-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+laurent.fayard@leshotelstresparticuliers.com,leshotelstresparticuliers.com,,,Impossible (résolution MX échouée),Impossible (MX)
+laurent.garcia@peyragudes.com,peyragudes.com,ASPMX.L.GOOGLE.com,Non,Inexistant (SMTP 550),Inexistant
+laurent.gardinier@relaischateaux.com,relaischateaux.com,mail.cleanmail.eu,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+laurent.garrido@sofitel.com,sofitel.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+laurent.guiouiller@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+laurent.haour@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+laurent.hartenstein@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Incertain (Code 554 : 5.7.1 <laurent.hartenstein@accor.com>: Recipient address rejected: Invalid-Recipient.),Incertain
+laurent.hayes@carltoncannes.com,carltoncannes.com,mx1.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [20.168.103.50])",Incertain
+laurent.lagarde@theoriginalscollection.com,theoriginalscollection.com,spool.mail.gandi.net,Non,Inexistant (SMTP 550),Inexistant
+laurent.laporte@evianresort.com,evianresort.com,mxa-000f8e02.gslb.pphosted.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+laurent.lucas@radissonhotels.com,radissonhotels.com,radissonhotels.in.tmes.trendmicro.eu,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+laurent.maudet@terrake.fr,terrake.fr,terrake-fr.mail.protection.outlook.com,Non,Valide (SMTP 250),Valide
+laurent.mauguit@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+laurent.mayzoue@thegatecollection.com,thegatecollection.com,mx-01-eu-west-1.prod.hydra.sophos.com,Non,Valide (SMTP 250),Valide
+laurent.menard@bayrol.fr,bayrol.fr,bayrol-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+laurent.nicoleau@bestmontblanc.com,bestmontblanc.com,de-smtp-inbound-1.mimecast.com,Non,Inexistant (SMTP 550),Inexistant
+laurent.paris@hotelchristopher.com,hotelchristopher.com,hotelchristopher-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+laurent.rival@georgesblanc.com,georgesblanc.com,mx-mibc-fr-02.mailinblack.com,Non,Inexistant (SMTP 550),Inexistant
+laurent.rossi@summer-hotels.com,summer-hotels.com,,,Impossible (résolution MX échouée),Impossible (MX)
+laurent.strozyk@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+laurent.vaesken@adagio-apartements.com,adagio-apartements.com,,,Impossible (résolution MX échouée),Impossible (MX)
+laurent.valet@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Incertain (Code 554 : 5.7.1 <laurent.valet@accor.com>: Recipient address rejected: Invalid-Recipient.),Incertain
+laurent.zonghero@campanile.fr,campanile.fr,campanile-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
