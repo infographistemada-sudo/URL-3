@@ -1,0 +1,101 @@
+Prenom,Nom,Email_Original,Resultat_Original,Domaine,Serveur_MX,Catch_All,Email_Valide_Trouve,Resultat_Nouvelle_Verification,Nb_Formats_Testes,Niveau_Confiance
+Lisa,Grimaldi,lisa.grimaldi@hotelleprovencal.com,,hotelleprovencal.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Luciano,guerra,l.guerra@airelles.com,,airelles.com,airelles-com.mail.protection.outlook.com,Non,l.guerra@airelles.com,Valide (SMTP 250),1,Élevé
+Lauriane,Hardy,lauriane.hardy@coquilladeprovenceresortspa.com,,coquilladeprovenceresortspa.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Léa,Hélies,lea.helies@saintebarbehotelspaleconquetmgallery.com,,saintebarbehotelspaleconquetmgallery.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Layla,Higgs,layla.higgs@hotellapalma.com,,hotellapalma.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Laura,Jung,laura.jung@entreprise.com,,entreprise.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Linda,Labarthe,linda.labarthe@campinglarive.com,,campinglarive.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Laura,Lardon,laura.lardon@hotelchaletmounier.com,,hotelchaletmounier.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Léa,Larminach-Fechino,lc3a9a.larminachfechino@lmspamanagementandconsulting.com,,lmspamanagementandconsulting.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Lynne,Laurent,lynne.laurent@entreprise.com,,entreprise.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Ludovic,Le Boeuf,ludovic.leboeuf@entreprise.com,,entreprise.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Lénaïc,Lecoq,lc3a9nac3afc.lecoq@entreprise.com,,entreprise.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Lara,Lellouche Guizard,lara.lelloucheguizard@entreprise.com,,entreprise.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Laurent,Le Net,laurent.lenet@entreprise.com,,entreprise.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Laura,Li Vecchi,laura.livecchi@oceaniahotels.com,,oceaniahotels.com,oceaniahotels-com.mail.protection.outlook.com,Oui,,Catch-all confirmé (aucun format vérifiable par SMTP),0,Très faible
+Laurent,Malbert,laurent.malbert@skyy.com,,skyy.com,mxa-005c5d01.gslb.pphosted.com,Non,,Aucun format validé par SMTP,8,Très faible
+Laurianne,Malot,laurianne.malot@domainederochebois.com,,domainederochebois.com,mx4.mail.ovh.net,Non,,Aucun format validé par SMTP,8,Très faible
+Loubna,Marcel,loubna.marcel@entreprise.com,,entreprise.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Laura,Mauffré,laura.mauffrc3a9@lesglycineshotelspa.com,,lesglycineshotelspa.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Laurent,Ménard,laurent.menard@entreprise.com,,entreprise.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Léane,Micheneau,lc3a9ane.micheneau@hotellemspabyhotelspreference.com,,hotellemspabyhotelspreference.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Léa,Milbéo,lc3a9a.milbc3a9o@labutteplouider.com,,labutteplouider.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Louise,Mitard Fede,louise.mitardfede@vatelhotelspa.com,,vatelhotelspa.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Laurent,Montillard,l.montillard@chateaucapitoul.com,,chateaucapitoul.com,chateaucapitoul-com.mail.protection.outlook.com,Non,l.montillard@chateaucapitoul.com,Valide (SMTP 250),1,Élevé
+Léa,Morais,lc3a9a.morais@algotherm.com,,algotherm.com,mx02.cloud.vadesecure.com,Oui,,Catch-all confirmé (aucun format vérifiable par SMTP),0,Très faible
+Laurence,Mouchet,laurence.mouchet@entreprise.com,,entreprise.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Laëtitia,Nirdol,lac3abtitia.nirdol@mmv.com,,mmv.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Lisa,Nouguier,lisa.nouguier@vatelhotelspa.com,,vatelhotelspa.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Léa,Orticoni,lc3a9a.orticoni@entreprise.com,,entreprise.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Laura,Parrot,laura.parrot@entreprise.com,,entreprise.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Laetitia,Pascaud,laetitia.pascaud@entreprise.com,,entreprise.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Laetitia,Perard,laetitia.perard01@appartcity.com,,appartcity.com,appartcity-com.mail.protection.outlook.com,Oui,,Catch-all confirmé (aucun format vérifiable par SMTP),0,Très faible
+Ludovic,Pillet,ludovic.pillet@sowellhotelsresidences.com,,sowellhotelsresidences.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Laetitia,Puissieux,laetitia.puissieux@fondationinfa.com,,fondationinfa.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Léa,Rivière,lc3a9a.rivic3a8re@entreprise.com,,entreprise.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Lucas,Saint-Etienne,lucas.saintetienne@entreprise.com,,entreprise.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Ludovic,Sarrou,ludovic.sarrou@balaruclesbainseauthermale.com,,balaruclesbainseauthermale.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Lisa,Savoie,lisa.savoie@entreprise.com,,entreprise.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+lydiane,scarpari,lydiane.scarpari@thermesdesfumadesarenadour.com,,thermesdesfumadesarenadour.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Lionel,Schirch,lionel.schirch@hotelchaismonnetspa.com,,hotelchaismonnetspa.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Laurence,Senente,laurence.senente@hotellescaps.com,,hotellescaps.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Laëtitia,Tahi,lac3abtitia.tahi@hotelcoeurmarin.com,,hotelcoeurmarin.com,hotelcoeurmarin-com.mail.protection.outlook.com,Non,,Aucun format validé par SMTP,9,Très faible
+lionel,thouvenin,lionel.thouvenin@lavorelhotels.com,,lavorelhotels.com,lavorelhotels-com.mail.protection.outlook.com,Non,lionel.thouvenin@lavorelhotels.com,Valide (SMTP 250),1,Élevé
+laetitia,vesperini,lvesperinigestionnairespathalassothermes@stcgspathalassoconseilgestion.com,,stcgspathalassoconseilgestion.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Laurence,Villa,laurence.villa@cryoterafrance.com,,cryoterafrance.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Lucile,VORNETTI,lucile.vornetti@chateaudechapeaucornu.com,,chateaudechapeaucornu.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Aline,Magaud-Buton,aline.magaudbuton@campingparadislabretonniere.com,,campingparadislabretonniere.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+laetitia,cousin,laetitia.cousin@lessourcesdecheverny.com,,lessourcesdecheverny.com,spool.mail.gandi.net,Non,,Aucun format validé par SMTP,8,Très faible
+Laëtitia,Jars,lac3abtitia.jarsrh@entreprise.com,,entreprise.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Laetitia,RIBA,laetitia.riba@accor.com.,,accor.com.,accor.in.tmes.trendmicro.eu,Non,,Aucun format validé par SMTP,8,Très faible
+Laetitia,SENECHAL,laetitia.senechal@accor.com,,accor.com,accor.in.tmes.trendmicro.eu,Non,laetitia.senechal@accor.com,Valide (SMTP 250),1,Élevé
+Laetitia,Sommer,laetitia.sommer@boutiquehotel.com,,boutiquehotel.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Laëtitia,Renard,lac3abtitia.renard@entreprise.com,,entreprise.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Laetitia,C.,laetitia.c@laserenitedelame.com,,laserenitedelame.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Laetitia,Altobelli,laetitia.altobelli@chateausaintpierredeserjac.com,,chateausaintpierredeserjac.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Aurélien,LAURENT,aurc3a9lien.laurent@campingparadislamarmotte.com,,campingparadislamarmotte.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+lamine,arouf,lamine.arouf@jwmarriottcannes.com,,jwmarriottcannes.com,jwmarriottcannes-com.mail.protection.outlook.com,Non,lamine.arouf@jwmarriottcannes.com,Valide (SMTP 250),1,Élevé
+Lana,Garapin,lana.garapin@hotelancremarine.com,,hotelancremarine.com,mail.hotelancremarine.com,Non,,Aucun format validé par SMTP,8,Très faible
+Larbi,OUHAMMOU,larbi.ouhammou@accor.com,,accor.com,accor.in.tmes.trendmicro.eu,Non,larbi.ouhammou@accor.com,Valide (SMTP 250),1,Élevé
+Léa,Aubree,lea.aubree@rozmarinethalassoperrosguirec.com,,rozmarinethalassoperrosguirec.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+laura,boronad,laura.boronad@odalysgroupe.com,,odalysgroupe.com,spool.mail.gandi.net,Non,,Aucun format validé par SMTP,8,Très faible
+Laura,Caillaud,laura.caillaud@haaitzapylasurmer.com,,haaitzapylasurmer.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+LAURA,COMBET,laura.combet@entreprise.com,,entreprise.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+laura,descamps,laura.descamps@studiokara.com,,studiokara.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+laura,devemy,laura.devemy@leshautsdeloire.com,,leshautsdeloire.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+laura,donat,laura.donat@le1932hotelspacapdantibesmgallery.com,,le1932hotelspacapdantibesmgallery.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+laura,durozey,laura.durozey@lilyofthevalleyhotel5.com,,lilyofthevalleyhotel5.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Laura,E.,laura.e@saintjamesparis.com,,saintjamesparis.com,mx1.ovh.net,Non,,Aucun format validé par SMTP,8,Très faible
+Laura,GEUS,laura.geus@hostelleriedeschateauxspa.com,,hostelleriedeschateauxspa.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+laura,jaën,laura.jac3abn@lvrivieraspagestiondespashoteliers.com,,lvrivieraspagestiondespashoteliers.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Laura,Joly,laura.joly@spadesclosbiologiquerecherchefrance.com,,spadesclosbiologiquerecherchefrance.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Laura,Merle,laura.merle@anantaraplazanicehotel.com,,anantaraplazanicehotel.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Laura,Moreau,laura.moreau@zooparcdebeauval.com,,zooparcdebeauval.com,mx4.mail.ovh.net,Non,,Aucun format validé par SMTP,8,Très faible
+Laura,Penman,laura.penman@experimental.com,,experimental.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+laura,tracol,laura.tracol@sarlescapadebienetre.com,,sarlescapadebienetre.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+laura,viel,laura.viel@thalassodestroismondes.com,,thalassodestroismondes.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Laura,Merit,laura.merit@entreprise.com,,entreprise.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+laura,fargeat,laura.fargeat@entreprise.com,,entreprise.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Laura,Lopez,laura.lopez@institutspadailleurs.com,,institutspadailleurs.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Laura,Giralt,lauragiralt@entreprise.com,,entreprise.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Laura,Noto,laura.noto@entreprise.com,,entreprise.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Laura,Barbier,laura.barbier@rlbeautyspa.com,,rlbeautyspa.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Laura,SIMON,laura-simon@lademeuremontaigne.com,,lademeuremontaigne.com,mx0.mail.ovh.net,Non,,Aucun format validé par SMTP,9,Très faible
+Laura,Melot,laura.melot@spaquana.com,,spaquana.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+laurane,pattier,laurane.pattier@odeonspa.com,,odeonspa.com,groupemarzocco-mc.mail.protection.outlook.com,Non,,Aucun format validé par SMTP,8,Très faible
+Laurane,Breteau,laurane.breteau@entreprise.com,,entreprise.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Laure,Auger,laure.auger@entreprise.com,,entreprise.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Laure,Paolini,laure.paolini@sofitelmarseillevieuxport.com,,sofitelmarseillevieuxport.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Laure,Quinton,laure.quinton@entreprise.com,,entreprise.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Laure,Blanchy,laure.blanchy@entreprise.com,,entreprise.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Laure,Maria,laure.maria@edcspamanagement.com,,edcspamanagement.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Laure,Pugliese,laure.pugliese@entreprise.com,,entreprise.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Laureen,Giauffer,laureen.giauffer@entreprise.com,,entreprise.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Lauren,Estival,lauren.estival@hotelduchateau.com,,hotelduchateau.com,mx1.mail.ovh.net,Non,,Aucun format validé par SMTP,8,Très faible
+laurence,dujardin,laurence.dujardin@lejardinzenduquistillic.com,,lejardinzenduquistillic.com,mx4.mail.ovh.net,Non,,Aucun format validé par SMTP,8,Très faible
+Laurence,Hourdry,laurence.hourdry@entreprise.com,,entreprise.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Laurence,Mouchet,laurence.mouchet@hotelresidenceeurope.com,,hotelresidenceeurope.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Laurence,Gay,laurence.gay@amincissementetbienetre.com,,amincissementetbienetre.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Laurence,Tharaud,laurence.tharaudbienetre@ariabienetre.com,,ariabienetre.com,mail-fr.securemail.pro,Oui,,Catch-all confirmé (aucun format vérifiable par SMTP),0,Très faible
+Laurence,Commaille,laurence.commaille@cocooninginstitutdebeautespa.com,,cocooninginstitutdebeautespa.com,,,,Impossible (résolution MX échouée),0,Indéterminé
